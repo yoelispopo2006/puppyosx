@@ -10,10 +10,12 @@
       <property name="position-locked" type="bool" value="true"/>
       <property name="size" type="uint" value="36"/>
       <property name="plugin-ids" type="array">
-        <value type="int" value="7"/>
         <value type="int" value="9"/>
+        <value type="int" value="11"/>
+        <value type="int" value="12"/>
         <value type="int" value="4"/>
         <value type="int" value="2"/>
+        <value type="int" value="7"/>
         <value type="int" value="3"/>
         <value type="int" value="15"/>
         <value type="int" value="6"/>
@@ -83,5 +85,15 @@
       <property name="style" type="uint" value="1"/>
     </property>
     <property name="plugin-1" type="string" value="showdesktop"/>
+    <property name="plugin-11" type="string" value="launcher">
+      <property name="items" type="array">
+        <value type="string" value="14439307101.desktop"/>
+      </property>
+    </property>
+    <property name="plugin-12" type="string" value="launcher">
+      <property name="items" type="array">
+        <value type="string" value="14439310692.desktop"/>
+      </property>
+    </property>
   </property>
 </channel>

@@ -14,16 +14,16 @@ gap_x 0
 gap_y 0
 alignment top_left
 
-minimum_size 500 300
-maximum_width 600
+minimum_size 500 270
+maximum_width 500
 
 own_window yes
 own_window_type normal
-own_window_transparent yes
+own_window_transparent no
 own_window_hints undecorate,sticky,skip_taskbar,skip_pager,below
 
 own_window_argb_visual yes
-#own_window_argb_value 0
+own_window_argb_value 0
 
 #border_margin 0
 #border_inner_margin 0
@@ -38,7 +38,10 @@ draw_outline no
 draw_borders no
 draw_graph_borders no
 
+# Lua Load  #
 
+lua_load /root/.config/conky/puppyosx.lua
+lua_draw_hook_pre ring_stats
 #====================================
 #   Text Settings
 #====================================
@@ -76,7 +79,7 @@ TEXT
 \
 \
 ${font Poiret One:weight=Light:size=76}${color0}\
-${alignc}${time %I:%M %P}\
+${alignc}${time %-I:%M %p}\
 ${font}${color}
 \
 \
@@ -85,8 +88,22 @@ ${font}${color}
 #----------------------------------------
 \
 \
-${font Poiret One:weight=Light:size=25}${color1}\
+${font Poiret One:weight=Light:size=29}${color1}\
 ${voffset 30}\
-${alignc}${execi 300 LANG=${template9} LC_TIME=${template9} date +"%A, %B %d"}\
+${alignc}${execi 300 LANG=${template9} LC_TIME=${template9} date +"%A, %B %d"}${color1}\
 ${font}${color}
 
+${font Poiret One:weight=Light:size=20}${color1}\
+${offset 85}${voffset 27}${cpu cpu0}%
+${offset 75}${voffset 30}CPU
+${font}${color}
+
+${font Poiret One:weight=Light:size=20}${color1}\
+${offset 225}${voffset -140}${memperc}%
+${offset 205}${voffset 30}MEM
+${font}${color}
+
+${font Poiret One:weight=Light:size=20}${color1}\
+${offset 360}${voffset -140}${fs_used_perc /root}%
+${offset 345}${voffset 30}ROOT
+${font}${color}
