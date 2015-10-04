@@ -1,0 +1,13 @@
+[Xfce Panel]
+Type=X-XFCE-PanelPlugin
+Name=Clock
+Name[es]=Reloj
+Comment=What time is it?
+Comment[es]=¿Qué hora es?
+Icon=xfce4-clock
+X-XFCE-Module=clock
+X-XFCE-Internal=TRUE
+X-XFCE-API=1.0
+
+[Desktop Entry]
+X-XFCE-Source=file:///usr/share/xfce4/panel/plugins/clock.desktop
