@@ -25,4 +25,7 @@ Claro esto nos pedira un poco mas de requisitos por su puesto:
 Minimo de 2Ghz CPU y 1GB RAM para mejor funcionamiento.
 
 El repo oficial de X-Tahr lo podemos encontrar desde este enlace. http://smokey01.com/rg66/X-tahr/
-Continuara....
+
+Desde este enlace podemos descargar algunos de los paquetes mas comunes y librerias que podamos necesitar.
+https://drive.google.com/folderview?id=0BzQC5cqYDU_uSmR6X20xZDVpdVE&usp=sharing
+continuara....
