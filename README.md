@@ -28,4 +28,13 @@ El repo oficial de X-Tahr lo podemos encontrar desde este enlace. http://smokey0
 
 Desde este enlace podemos descargar algunos de los paquetes mas comunes y librerias que podamos necesitar.
 https://drive.google.com/folderview?id=0BzQC5cqYDU_uSmR6X20xZDVpdVE&usp=sharing
-continuara....
+
+[![screenshot](http://k46.kn3.net/taringa/0/4/6/1/8/E/yoemendoza96/749.png)
+
+Con Slickpet puppy tahr descarga actualizaciones y nos brinda acceso a aplicaciones 
+populares como navegadores, aplicaciones para audio, video, internet, graficos, oficina y demas. 
+
+
+HOLA DE NUEVO
+
+Ya presentandoles una nueva actualizacion de PuppyOsx
