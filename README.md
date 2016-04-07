@@ -32,7 +32,7 @@ https://drive.google.com/folderview?id=0BzQC5cqYDU_uSmR6X20xZDVpdVE&usp=sharing
 Con Quickpet puppy tahr descarga actualizaciones y nos brinda acceso a aplicaciones 
 populares como navegadores, aplicaciones para audio, video, internet, graficos, oficina y demas. 
 
-[![screenshot] (https://drive.google.com/file/d/0BzQC5cqYDU_uTnJLOF94Ukw2V2M/view?usp=sharing)
+https://drive.google.com/file/d/0BzQC5cqYDU_uTnJLOF94Ukw2V2M/view?usp=sharing
 
 
 HOLA DE NUEVO
