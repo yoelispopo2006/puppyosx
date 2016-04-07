@@ -30,11 +30,9 @@ Desde este enlace podemos descargar algunos de los paquetes mas comunes y librer
 https://drive.google.com/folderview?id=0BzQC5cqYDU_uSmR6X20xZDVpdVE&usp=sharing
 
 Con Quickpet puppy tahr descarga actualizaciones y nos brinda acceso a aplicaciones 
-populares como navegadores, aplicaciones para audio, video, internet, graficos, oficina y demas. 
+populares como navegadores, aplicaciones para audio, video, internet, graficos, oficina y demas.
 
-https://drive.google.com/file/d/0BzQC5cqYDU_uTnJLOF94Ukw2V2M/view?usp=sharing
-
-
+http://k30.kn3.net/taringa/B/4/7/5/D/9/yoemendoza96/53B.png
 HOLA DE NUEVO
 
 Ya presentandoles una nueva actualizacion de PuppyOsx
